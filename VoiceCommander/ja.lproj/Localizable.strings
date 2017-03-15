@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  VoiceCommander
+
+  Created by Toshinari Nakamura on 2016/10/25.
+  Copyright © 2017年 Cerevo Inc. All rights reserved.
+*/
+"Please Tap Start Recording" = "音声認識を開始してください";
+"Start Recording" = "音声認識を開始する";
+"User denied access to speech recognition" = "音声認識機能の利用が許可されませんでした";
+"Speech recognition restricted on this device" = "この端末では音声認識機能が制限されています";
+"Speech recognition not yet authorized" = "音声認識機能が有効になっていません";
+"Stopping..." = "音声認識を停止中...";
+"(listening...)" = "(認識中...)";
+"Stop recording" = "音声認識を停止する";
+"Recognition not available" = "音声認識が利用できません";

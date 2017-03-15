@@ -1,0 +1,9 @@
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "mxb-FG-4B2"; */
+"mxb-FG-4B2.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "tvx-YV-hjn"; */
+"tvx-YV-hjn.text" = "Label";
+
+/* Class = "UITextView"; text = "Result"; ObjectID = "y1e-26-wyT"; */
+"y1e-26-wyT.text" = "Result";
